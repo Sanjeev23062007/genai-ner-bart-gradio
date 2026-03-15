@@ -107,7 +107,7 @@ demo = gr.Interface(fn=ner,
 demo.launch(share=True, server_port=int(os.environ['PORT4']))
 ```
 ### OUTPUT:
-
+![image alt](https://github.com/Sanjeev23062007/genai-ner-bart-gradio/blob/d7a08127634b29313b7dd663e6d9b5bf046ddabc/Screenshot%202026-03-13%20143701.png)
 
 
 ### RESULT:
